@@ -1,0 +1,12 @@
+.imagens{
+    margin-top: 200px;
+}
+
+.imagens i img{
+    width: 50px;
+}
+
+img{
+    width: 500px;
+    margin-top: 30px;
+}
