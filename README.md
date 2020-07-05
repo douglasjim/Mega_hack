@@ -2,7 +2,7 @@
 
 ## Install
 ```
-$ clone git@github.com:basir/ecommerce-shopping-cart.git 
+$ git clone git@github.com:basir/ecommerce-shopping-cart.git 
 ```
 
 ## Run Server
