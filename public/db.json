@@ -1,0 +1,63 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "sku": 876661122392077,
+      "title": "Hot-Dog",
+      "description": "2 Salsicha,Vinagrete,Batata palha",
+      "availableSizes": ["X", "L", "XL", "XXL"],
+      "price": 6.50,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 2,
+      "sku": 5619496040738316,
+      "title": "X-Tudo",
+      "description": "2 Hamburguer120g,Bacon,2 ovos",
+      "availableSizes": ["X", "M", "L"],
+      "price": 19.90,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 3,
+      "sku": 6090484789343891,
+      "title": "X-Salada",
+      "description": "Hambuguer 90g, cheddar e catupiry",
+      "availableSizes": ["X", "M", "L"],
+      "price": 10.90,
+      "isFreeShipping": true
+    },
+
+    {
+      "id": 4,
+      "sku": 9197907543445676,
+      "title": "X-burguer",
+      "description": "Hambuguer 90g, queijo e cheddar",
+      "availableSizes": ["XL"],
+      "price": 8.90,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 5,
+      "sku": 10547961582846888,
+      "title": "X-Bacon",
+      "description": "Hambuguer 90g, cheddar e catupiry",
+      "availableSizes": ["X", "L", "XL"],
+      "price": 10.9,
+      "isFreeShipping": false
+    },
+
+    {
+      "id": 6,
+      "sku": 11600983276356164,
+      "title": "X-Egg",
+      "description": "Hambuguer 90g, cheddar e catupiry",
+      "availableSizes": ["XL", "XXL"],
+      "price": 12.90,
+      "isFreeShipping": false
+    }
+  ]
+}
