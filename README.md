@@ -2,7 +2,7 @@
 
 ## Install
 ```
-$ git clone git@github.com:basir/ecommerce-shopping-cart.git 
+$ git clone https://github.com/douglasjim/Mega_hack.git
 ```
 
 ## Run Server
